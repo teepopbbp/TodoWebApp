@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rreb6/97jXU=",
+  "success": true,
+  "projectFilePath": "/Users/teepop/Desktop/work/coop/csharp/TodoWebApp/TodoApp.Api/TodoApp.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/teepop/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/teepop/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
